@@ -6,6 +6,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("commit test");
+		System.out.println("develop 브랜치 생성");
 	}
 
 }
