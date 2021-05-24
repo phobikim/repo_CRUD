@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form action="login" method="get">
-		아이디: <input type="text" name="id"><br>
+		아이디 입력: <input type="text" name="id"><br>
 		비밀번호: <input type="password" name="passwd"><br>
 		<input type="submit" value="로그인">
 	</form>
