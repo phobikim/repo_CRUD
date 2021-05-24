@@ -3,6 +3,7 @@ count2
 count3
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 master count4
 =======
 apple content 4
@@ -10,3 +11,9 @@ apple content 4
 =======
 google content4
 >>>>>>> origin/google
+=======
+google content4
+=======
+master count4
+>>>>>>> master
+>>>>>>> google
