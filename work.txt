@@ -1,4 +1,8 @@
 count1
 count2
 count3
+<<<<<<< HEAD
 google content4
+=======
+master count4
+>>>>>>> master
