@@ -1,4 +1,8 @@
 count1
 count2
 count3
+<<<<<<< HEAD
 master count4
+=======
+apple content 4
+>>>>>>> apple
