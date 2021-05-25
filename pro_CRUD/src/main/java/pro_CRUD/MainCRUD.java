@@ -6,6 +6,7 @@ public class MainCRUD {
 		//master 브랜치
 		String work = "master";
 		int step = 1;
+		int sos = 2;
 	}
 
 }
