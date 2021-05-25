@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="gradle-2">
-        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/lib/src/main/java"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/lib/src/test/java"/>
-        <property name="context-root" value="gradle-2"/>
-        <property name="java-output-path" value="/gradle-2/bin"/>
-    </wb-module>
-</project-modules>
