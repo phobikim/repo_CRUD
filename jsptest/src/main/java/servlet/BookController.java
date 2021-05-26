@@ -56,5 +56,9 @@ public class BookController extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
-
+	
+	private void connect(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
+		
+		
+	}
 }

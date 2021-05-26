@@ -2,7 +2,6 @@ package dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
@@ -26,7 +25,7 @@ public class BookDao {
 	public ArrayList<BookVo> getRead() {
 		ArrayList<BookVo> list = new ArrayList<BookVo>();
 		//sql문 생성
-		String sql = "select * from book";
+		String sql = "select * from book2";
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 			String url = "jdbc:oracle:thin:@192.168.0.105:1521:xe";
